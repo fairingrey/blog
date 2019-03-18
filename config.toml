@@ -1,5 +1,5 @@
 # Base URL of the site, the only required config argument
-base_url = "https://fairingrey.github.io/"
+base_url = "https://fairingrey.github.io/blog/"
 
 # Used in RSS by default
 title = "In Grey"
