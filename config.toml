@@ -1,0 +1,33 @@
+# Base URL of the site, the only required config argument
+base_url = "https://fairingrey.github.io/"
+
+# Used in RSS by default
+title = "In Grey"
+description = "A collection of fanciful and hopefully interesting thoughts."
+# the default language, used in RSS and coming i18n
+default_language = "en"
+
+# Theme name to use
+theme = "hyde"
+
+# Highlight all code blocks found
+highlight_code = true
+
+# Which theme to use for the code highlighting.
+# See below for list of accepted values
+highlight_theme = "base16-ocean-dark"
+
+# Whether to generate a RSS feed automatically
+generate_rss = false
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[extra]
+# Put all your custom variables here
+hyde_links = [
+    {url = "https://github.com/fairingrey", name = "GitHub"},
+]
