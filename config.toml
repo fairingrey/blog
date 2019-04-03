@@ -2,7 +2,7 @@
 base_url = "https://fairingrey.github.io/blog/"
 
 # Used in RSS by default
-title = "In Grey"
+title = ".grey"
 description = "A collection of fanciful and hopefully interesting thoughts."
 # the default language, used in RSS and coming i18n
 default_language = "en"
@@ -14,8 +14,7 @@ theme = "hyde"
 highlight_code = true
 
 # Which theme to use for the code highlighting.
-# See below for list of accepted values
-highlight_theme = "base16-ocean-dark"
+highlight_theme = "charcoal"
 
 # Whether to generate a RSS feed automatically
 generate_rss = false
@@ -30,4 +29,6 @@ build_search_index = true
 # Put all your custom variables here
 hyde_links = [
     {url = "https://github.com/fairingrey", name = "GitHub"},
+    {url = "mailto:fairingrey@mixini.dev", name = "Email"},
+    {url = "https://kitsu.io/users/fairingrey", name = "Kitsu"}
 ]
