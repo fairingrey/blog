@@ -3,7 +3,6 @@ title = "My First Article"
 description = "A little bit about this blog, and about myself."
 date = 2019-04-02
 +++
-#
 
 My first article! I've spent a bit of time setting this up, but hopefully it looks good as is right now. This blog is being built via Zola, and you can see all of the code for this blog [here](https://github.com/fairingrey/blog). Feel free to submit an issue if you have trouble viewing this blog or want to fix something in one of my templates.
 

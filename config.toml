@@ -3,7 +3,7 @@ base_url = "https://fairingrey.github.io/blog/"
 
 # Used in RSS by default
 title = "grey."
-description = "A collection of fanciful and hopefully interesting thoughts."
+description = "Spare you a blog for great justice."
 # the default language, used in RSS and coming i18n
 default_language = "en"
 
