@@ -1,6 +1,6 @@
 +++
 title = "A Reflection On Trying, Learning, Failing"
-description = "A personal reflection on the past two years regarding development. Learning to fail, and learning to learn."
+description = "A personal reflection on the past two to three years regarding development. Learning to fail, and learning to learn."
 date = 2019-05-05
 +++
 
@@ -30,6 +30,22 @@ It was fun, don't get me wrong, but in retrospect I think I didn't really make t
 
 When I graduated in January 2017, I started going through the process of applying to jobs that were looking for recent college graduates in Computer Science or related disciplines, as do most recent grads in my field do.
 
-WIP
+My first several months of applying to jobs were *brutal*. I've had a pretty low self-esteem for as long as I can remember, and while I did try my best to apply to as many jobs as I could, I often shrugged away from jobs if I felt like I could not fulfill at least 80% of the requirements. I cut myself short too often, and I couldn't really understand why job postings asked for so much. Oftentimes, after each and every failed job screening or phone interview I would constantly question myself and my accomplishments. After all, I didn't really know "software" much as I did various vague computer science concepts that I've quickly pushed out of my short term memory after cramming for tests, exams, and homework.
+
+It was on my fault that I didn't even really know what developing software *meant*. I thought developing software would be a fairly archetypal pattern of designing and writing nice code or fixing bugs, but the field is vast and full of things to learn that school never teaches you. Sometimes it feels as if you're looking up a hill that seems impossible to climb; and it was, for someone still stuck in a fixed mindset. I didn't have a job mentor or other references of sorts to guide me through the rungs of what its' like to actually do "software engineering" either.
+
+It was several cycles of starting the job search, encountering job opportunities that failed to come to fruition, having my self-esteem being hurt, and then stopping the job search for a bit until I could collect a small moment of courage and recycle myself back into the rhythm. After roughly nine to ten months of being through the wringer of numerous failed applications, I sincerely thought I wasn't cut out for it. I kept in touch with friends who were in the same pit; Someone I was close friends with throughout university, that did a double major in Computer Science and Math failed to find anything, eventually settling down and working a blue-collar job outside of his field.
+
+All in the meantime I still kept up the habit of playing video games, watching anime and reading manga, just to shield myself from that reality. Eventually my parents did get frustrated with it, and I did inevitably tell my dad it just wasn't working out, only for him to start telling his friends at work to tell their kids not to graduate in Computer Science; because of my experience.
+
+There's this mental pattern people working in this field recognize as [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), where someone doubts their ability to succeed and fails to internalize their own accomplishments as a sign of their competence. There are numerous blogposts and threads on the topic; a quick Google search will point you to these. I wasn't even aware of such a thing until about an entire year after I graduated, I got to know someone through an online anime community who let me know that I wasn't alone in this regard.
+
+Eventually I stopped searching for jobs entirely for the months between November 2017 and March 2018. In that meantime, I simply just did odd jobs for my family and kept under the excuse that I was still figuring out what to do with my career, telling both my parents I decided I would be going to grad school. Grad school wasn't really something I wanted to do much as it was *something* to do, and eventually I figured out this was also a mistake. More on that later, though.
+
+## Why School Didn't Prepare Me
 
 ## Starting from Zero
+
+## Where I Am Now
+
+## Wrapping Up
